@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpStepFilterConfiguration">
+    <option name="skippedFunctions">
+      <list>
+        <option value="Illuminate\Foundation\Application-&gt;findInContextualBindings" />
+        <option value="Illuminate\Foundation\Application-&gt;getContextualConcrete" />
+        <option value="Illuminate\Foundation\Application-&gt;resolve" />
+        <option value="Illuminate\Foundation\Application-&gt;resolveDependencies" />
+        <option value="Illuminate\Foundation\Application-&gt;build" />
+        <option value="App\Http\Kernel-&gt;terminateMiddleware" />
+        <option value="App\Http\Kernel-&gt;terminate" />
+        <option value="Illuminate\Foundation\Bootstrap\HandleExceptions-&gt;handleShutdown" />
+        <option value="Composer\Autoload\ClassLoader-&gt;findFile" />
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+The project has basic laravel project structure and have used it's standards
